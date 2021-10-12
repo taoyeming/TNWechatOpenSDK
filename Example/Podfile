@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TNWechatOpenSDK_Tests' do
+  pod 'TNWechatOpenSDK', :path => '../'
+  
+  
+end
