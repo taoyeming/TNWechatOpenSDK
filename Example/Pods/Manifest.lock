@@ -1,0 +1,16 @@
+PODS:
+  - TNWechatOpenSDK (0.1.0)
+
+DEPENDENCIES:
+  - TNWechatOpenSDK (from `../`)
+
+EXTERNAL SOURCES:
+  TNWechatOpenSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TNWechatOpenSDK: 7d7ad5f67dea3a2d7e810c13755cc023af7a7f1d
+
+PODFILE CHECKSUM: 8aedb49a775fc4f8360e365154f6adb9ae79bfd9
+
+COCOAPODS: 1.10.2

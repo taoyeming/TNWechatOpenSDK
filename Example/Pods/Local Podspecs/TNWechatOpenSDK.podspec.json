@@ -1,0 +1,22 @@
+{
+  "name": "TNWechatOpenSDK",
+  "version": "0.1.0",
+  "summary": "A short description of TNWechatOpenSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/11702701/TNWechatOpenSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "11702701": "taoyeming.tym@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/11702701/TNWechatOpenSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TNWechatOpenSDK/Classes/**/*"
+}

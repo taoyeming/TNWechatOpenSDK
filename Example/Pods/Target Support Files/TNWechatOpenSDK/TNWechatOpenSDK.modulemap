@@ -1,0 +1,6 @@
+framework module TNWechatOpenSDK {
+  umbrella header "TNWechatOpenSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
